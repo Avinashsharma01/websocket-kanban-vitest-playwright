@@ -181,4 +181,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Chart.js](https://www.chartjs.org/) for data visualization
 - [React](https://reactjs.org/) for UI components
 - [Vitest](https://vitest.dev/) for testing
-- [Playwright](https://playwright.dev/) for E2E testing
+- [Playwright](https://playwright.dev/) for E2E testing 
