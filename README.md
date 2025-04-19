@@ -1,4 +1,5 @@
 # 📝 WebSocket-Powered Kanban Board
+# I could have used MongoDUB as well but I didn't think it was right to use MongoDUB for such a small project.
 
 A real-time collaborative Kanban board application built with React, Socket.IO, Express, React DnD, and Chart.js. This project demonstrates the implementation of real-time task management, drag-and-drop functionality, file attachments, and data visualization.
 
